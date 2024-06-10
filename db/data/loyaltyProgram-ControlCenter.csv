@@ -1,0 +1,6 @@
+ID;controlCenterID;dashboard;cropHealth;environmentalConditions;alerts
+97ce967f-c7e2-4e96-a672-83b6c78d0127;1;Farm Control Center;Good;Optimal;No alerts
+634fb2a2-b3db-4c85-924c-1012374673b0;2;Field Management Dashboard;Fair;Suboptimal;Low water level alert
+b737164d-2d67-4d22-bef9-009b2626a8d8;3;Harvest Monitoring System;Excellent;Optimal;No alerts
+4aa489f2-8c5e-49de-a7ea-8610e1e52bfd;4;Crop Health Tracker;Good;Suboptimal;Low nutrient level alert
+4f9da865-c01d-4f14-aa78-2b999f522b62;5;Environmental Control Panel;Fair;Suboptimal;High temperature alert

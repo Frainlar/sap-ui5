@@ -1,0 +1,6 @@
+ID;insightID;yieldPrediction;resourceUsage;anomalyDetection
+b08eb594-a8fb-49d3-9a9c-146e03551a58;1;3000.50;1000 kg of water, 50 kg of fertilizer;No anomalies detected
+3130feef-2d47-43ff-9e6d-9adef4144a3a;2;2500.75;900 kg of water, 40 kg of fertilizer;Anomaly detected: Pest infestation
+25daf243-52e5-43c9-ba11-55a4817927e9;3;3500.25;1100 kg of water, 60 kg of fertilizer;No anomalies detected
+cf18f254-847e-47c8-a75a-587499661dd2;4;2800.80;950 kg of water, 45 kg of fertilizer;Anomaly detected: Low soil pH
+bbc03c07-2a99-4f6a-a42b-4a80cbdc10cc;5;3200.60;1050 kg of water, 55 kg of fertilizer;No anomalies detected
